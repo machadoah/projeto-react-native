@@ -1,4 +1,4 @@
-# Aplicativos P2 - Dispositivos Móveis (React-Native) 
+# Aplicativo P2 - Dispositivos Móveis (React-Native) 
 
 <img src="https://www.dresma.ai/wp-content/uploads/2022/01/React-Native-Developer-1.gif">
 
@@ -27,7 +27,7 @@ Para executar e testar os aplicativos, você pode utilizar a plataforma Expo.dev
 -->
 ## Agradecimento
 
-Agradecemos por visitar nosso repositório e esperamos que nossos aplicativos sejam úteis e informativos.
+Agradecemos por visitar nosso repositório e esperamos que nosso aplicativo seja útil e informativo.
 
 Divirta-se!
 
